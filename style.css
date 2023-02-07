@@ -1,0 +1,39 @@
+header {
+  background-color: blueviolet;
+  color: black;
+}
+body {
+  background-color: #ff99e6;
+  color: rgb(35, 35, 227);
+}
+section {
+  color: rgb(227, 118, 35);
+}
+#about {
+  background-color: rgba(242, 172, 102, 0.938);
+}
+#fonts,
+#units {
+  background-color: rgba(17, 132, 53, 0.938);
+}
+/* #properties { */
+/* background-color: rgba(102, 116, 242, 0.938); */
+/* } */
+#boxmodel {
+  background-color: rgba(190, 21, 92, 0.938);
+}
+/* #selectors { */
+/* background-color: rgba(209, 2, 2, 0.938); */
+/* } */
+.codebox {
+  background-color: teal;
+}
+h1 {
+  color: rgb(35, 35, 227);
+}
+h2 {
+  color: rgb(86, 5, 5);
+}
+nav > ul {
+  list-style-type: none;
+}
